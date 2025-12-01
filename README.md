@@ -5,8 +5,8 @@
 **A collection of hands-on workshops created by and for the Byte Semillero community**
 
 <p align="center">
-    <img src="https://img.shields.io/badge/📚_Workshops-1-blueviolet?style=for-the-badge" alt="Workshops" />
-    <img src="https://img.shields.io/badge/🕐_Latest-DIC_2024-blue?style=for-the-badge" alt="Latest" />
+    <img src="https://img.shields.io/badge/📚_Workshops-1-skyblue?style=for-the-badge" alt="Workshops" />
+    <img src="https://img.shields.io/badge/🕐_Latest-DIC_2025-blue?style=for-the-badge" alt="Latest" />
 </p>
 
 </div>
@@ -25,7 +25,7 @@ This repository contains practical workshops designed to help Byte Semillero mem
 
 |  #  | Workshop                                     | Description                                     | Technologies                          |    Date     |
 | :-: | :------------------------------------------- | :---------------------------------------------- | :------------------------------------ | :---------: |
-|  1  | [**WebSockets con Socket.IO**](./websockets) | Build a real-time chat application from scratch | Node.js, Socket.IO, React, TypeScript | DIC-01-2024 |
+|  1  | [**WebSockets con Socket.IO**](./websockets) | Build a real-time chat application from scratch | Node.js, Socket.IO, React, TypeScript | DIC-01-2025 |
 
 <br>
 
